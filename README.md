@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CyberGuard - Cyberbullying Detection System
 
 A comprehensive web-based cyberbullying detection system powered by machine learning and built with Flask.
@@ -266,3 +267,6 @@ For issues or questions:
 ---
 
 **Built with ❤️ for safer digital spaces**
+=======
+# Cyberbullying-detection-using-machine-learning
+>>>>>>> 74fc4f3a3b7ebc705ab3695d9a224c2f203dd3bf
